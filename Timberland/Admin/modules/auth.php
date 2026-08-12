@@ -1,7 +1,7 @@
 <?php
 // ===== ЗАЩИТА ПАРОЛЕМ =====
-$admin_user = 'Admin';
-$admin_pass = '2dEoGG'; // поменяй на свой пароль
+$admin_user = '';
+$admin_pass = ''; // поменяй на свой пароль
 
 if (!isset($_SERVER['PHP_AUTH_USER']) || 
     $_SERVER['PHP_AUTH_USER'] != $admin_user || 
