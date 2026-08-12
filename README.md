@@ -147,7 +147,7 @@ Timberland/Admin/modules/auth.php
 
 ## 📄 Лицензия
 
-MIT License
+Пыргарь Алексей Валерьевич
 
 ---
 
